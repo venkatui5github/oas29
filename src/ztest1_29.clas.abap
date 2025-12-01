@@ -1,0 +1,17 @@
+CLASS ztest1_29 DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+  methods get_data.
+  PROTECTED SECTION.
+  PRIVATE SECTION.
+ENDCLASS.
+
+
+
+CLASS ztest1_29 IMPLEMENTATION.
+method get_data.
+endmethod.
+ENDCLASS.
